@@ -10,7 +10,7 @@ _Digital Methods in Historical Linguistics, Philology, and Palaeography_, Univer
 
 _Recent Advances in Digital Philology_, University of Vienna, 7 December 2022:
 
-"Modeling the contribution of a phonological hypothesis: Using graph theory to compare two Old Chinese reconstruction systems" – Nathan Hill & James Engels
+"Modeling the contribution of a phonological hypothesis: Using graph theory to compare two Old Chinese reconstruction systems" – Nathan Hill & James Engels (Keynote)
 
 
 # Publications
