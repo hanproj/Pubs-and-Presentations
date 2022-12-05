@@ -10,7 +10,7 @@ _Recent Advances in Digital Philology_, University of Vienna, 7 December 2022:
 
 + "Modeling the contribution of a phonological hypothesis: Using graph theory to compare two Old Chinese reconstruction systems" – Nathan Hill & James Engels (Keynote)
 
-_The changing pronunciation of Chinese during the Han dynasty: applying graph theory to poetic rhymes_, Trinity College Dublin, 14 October 2022
+_The changing pronunciation of Chinese during the Han dynasty: applying graph theory to poetic rhymes_, Trinity College Dublin, 14 October 2022:
 
 + "The contribution of the Xiesheng hypothesis to competing theories of the Old Chinese vowel system" – James Engels
 
