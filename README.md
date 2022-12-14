@@ -4,7 +4,7 @@ _Digital Methods in Historical Linguistics, Philology, and Palaeography_, Univer
 
 + "Adopting Old Chinese rhyme orphans with xiéshēng imputation" – James Engels
 
-+ "ABC" – Ash Henson
++ "The Han Phonology Project: When Chinese became Chinese." – Ash Henson
 
 _The changing pronunciation of Chinese during the Han dynasty: applying graph theory to poetic rhymes_, Trinity College Dublin, 14 October 2022:
 
